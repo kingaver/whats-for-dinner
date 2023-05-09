@@ -1,2 +1,2 @@
-# whats-for-dinner
-Building an app that will hold a list of possible meals, and serve up personal suggestions.
+# What's For Dinner?
+It's a question that plagues us daily. This app will consist of two components: a database view that will allow a user to add preferred meals to the list along with a 'desirability' or 'frequency' for how often the meal should be suggested. It is my hope to start tracking dates / times along with choices, so that I can build a personalized algorithm for serving up meals that will be appreciated at certain times.
